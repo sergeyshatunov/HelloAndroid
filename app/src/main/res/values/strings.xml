@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="sendButton">Send</string>
+    <string name="namePlaceholder">Name</string>
+    <string name="emptyNameError">Enter name</string>
+    <string name="greetingText">Hello, %1$s!</string>
+</resources>
